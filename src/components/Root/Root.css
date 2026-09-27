@@ -1,0 +1,8 @@
+.root-main{
+    display: flex;
+}
+
+nav a.active {
+    /* text-decoration: underline; */
+    background-color: red;
+}
